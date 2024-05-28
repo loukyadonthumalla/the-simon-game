@@ -28,6 +28,7 @@ Welcome to **The Simon Game**! This project is a web-based implementation of the
    ```bash
    git clone https://github.com/loukyadonthumalla/the-simon-game.git
 2. **Navigate to the Project Directory**:
+   ```bash
    cd the-simon-game
 
 ## Contributions
