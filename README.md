@@ -37,6 +37,8 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 
 ## Contact 📬
 
+For any suggestions, feel free to reach out to me:
+
 - 👩 **Loukya Donthumalla**
 - 📧 **Email:** loukya.donthumalla@gmail.com
 - 📱 **Phone:** +91 93471 70705
