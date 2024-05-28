@@ -38,8 +38,8 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 ## Contact
 
 - **Loukya Donthumalla**
-- **Email: loukya.donthumalla@gmail.com**
-- **Phone: +91 93471 70705**
-- **GitHub: loukyadonthumalla**
+- **Email:** loukya.donthumalla@gmail.com
+- **Phone:** +91 93471 70705
+- **GitHub:** loukyadonthumalla
 
-# Thank you for checking out The Simon Game! Have fun and happy gaming!
+## Thank you for checking out The Simon Game! Have fun and happy gaming!
